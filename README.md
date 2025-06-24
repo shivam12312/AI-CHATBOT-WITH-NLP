@@ -1,5 +1,17 @@
 # AI-CHATBOT-WITH-NLP
 
+COMPANY: CODTECH IT SOLUTIONS
+
+"NANE: SHIVAM
+
+"INTERN ID: CT04DM932
+
+"DOMAIN: PYTHON PROGRAMMING
+
+"DURATION: 4 WEEEKS
+
+*NENTOR: NEELA SANTOSH
+
 🤖 AI Chatbot with Natural Language Processing (NLP)
 This project demonstrates the development of a basic AI-powered chatbot using Python and Natural Language Processing (NLP) techniques. The chatbot, named CodTechBot, is capable of understanding user input and responding with pre-defined conversational replies. Built using the NLTK (Natural Language Toolkit) library, it serves as a foundational project to explore rule-based conversational AI systems.
 
