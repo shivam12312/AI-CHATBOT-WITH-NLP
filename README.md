@@ -101,3 +101,7 @@ Train the bot using machine learning or deep learning for smarter conversations.
 ✅ Conclusion
 The AI Chatbot with NLP project is a simple but powerful demonstration of how basic natural language processing techniques can enable interactive communication between humans and machines. It serves as an excellent educational resource and a launchpad for building more advanced conversational AI systems.
 
+#OUTPUT
+
+[task 3 output.docx](https://github.com/user-attachments/files/20877928/task.3.output.docx)
+
