@@ -115,5 +115,4 @@ The AI Chatbot with NLP project is a simple but powerful demonstration of how ba
 
 #OUTPUT
 
-[task 3 output.docx](https://github.com/user-attachments/files/20877928/task.3.output.docx)
-
+![Image](https://github.com/user-attachments/assets/d329fbc4-86ca-47c9-ae36-a831ec71a96e)
